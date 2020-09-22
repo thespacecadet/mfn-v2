@@ -18,7 +18,7 @@ cursor = cnx.cursor()
 
 #collect data from proportional database. either in its entirety or a limited amount randomly
 query = "select project_abstract,id as pro_id,id,main_subject from ikon.projects_proportional group by project_abstract\
-    ORDER BY RAND() LIMIT 1000"
+    ORDER BY RAND() LIMIT 500"
 
 
 cursor.execute(query)

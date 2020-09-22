@@ -72,7 +72,7 @@ first_vector_tfidfvectorizer=tfidf_result[0]
 som_data = som(tfidf_lists,term_list,len(term_list))
 som_map = som_data[0]
 #process data and create map file 
-filename = "mfn-1k-test"
+filename = "mfn-half-k-test"
 s = create_map_file.create_map(filename,som_map,abstract_subject_list,weight_counter)
 
 #end = time.time()

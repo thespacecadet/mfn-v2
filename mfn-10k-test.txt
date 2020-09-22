@@ -3,16 +3,16 @@ id	label	x	y	weight<Amount of Abstracts>
 1	Informatik	23	0	255
 2	Literaturwissenschaft	37	0	164
 3	Kunst-, Musik-, Theater- und Medienwissenschaften	43	0	129
-4	Chemische Festkˆrper- und Oberfl‰chenforschung	1	1	102
+4	Chemische Festk√∂rper- und Oberfl√§chenforschung	1	1	102
 5	Philosophie	33	3	71
 6	Geschichtswissenschaften	49	4	276
 7	Elektrotechnik und Informationstechnik	13	7	183
 8	Theologie	38	7	79
 9	Psychologie	27	9	254
-10	Sozial- und Kulturanthropologie, Auﬂereurop‰ische Kulturen, Judaistik und Religionswissenschaft	40	9	147
+10	Sozial- und Kulturanthropologie, Au√üereurop√§ische Kulturen, Judaistik und Religionswissenschaft	40	9	147
 11	Teilchen, Kerne und Felder	25	11	108
 12	Alte Kulturen	47	12	204
-13	Optik, Quantenoptik und Physik der Atome, Molek¸le und Plasmen	3	13	138
+13	Optik, Quantenoptik und Physik der Atome, Molek√ºle und Plasmen	3	13	138
 14	Astrophysik und Astronomie	24	13	137
 15	Physik der kondensierten Materie	0	14	359
 16	Systemtechnik	14	15	151
@@ -26,22 +26,22 @@ id	label	x	y	weight<Amount of Abstracts>
 24	Geochemie, Mineralogie und Kristallographie	30	26	174
 25	Wasserforschung	38	26	88
 26	Sozialwissenschaften	49	28	216
-27	Geologie und Pal‰ontologie	28	29	230
+27	Geologie und Pal√§ontologie	28	29	230
 28	Produktionstechnik	12	32	260
-29	Geophysik und Geod‰sie	23	32	109
-30	Atmosph‰ren-, Meeres- und Klimaforschung	34	32	140
+29	Geophysik und Geod√§sie	23	32	109
+30	Atmosph√§ren-, Meeres- und Klimaforschung	34	32	140
 31	Materialwissenschaft	0	35	148
 32	Polymerforschung	18	36	118
 33	Zoologie	37	37	196
 34	Pflanzenwissenschaften	46	38	293
 35	Werkstofftechnik	6	40	145
 36	Agrar-, Forstwissenschaften und Tiermedizin	43	41	250
-37	Molek¸lchemie	21	42	248
+37	Molek√ºlchemie	21	42	248
 38	Statistische Physik, Weiche Materie, Biologische Physik, Nichtlineare Dynamik	1	45	65
 39	Analytik, Methodenentwicklung (Chemie)	29	45	55
 40	Mikrobiologie, Virologie und Immunologie	47	46	390
 41	Verfahrenstechnik, Technische Chemie	14	47	153
 42	Biologische Chemie und Lebensmittelchemie	35	47	56
-43	W‰rmeenergietechnik, Thermische Maschinen, Strˆmungsmechanik	7	49	179
+43	W√§rmeenergietechnik, Thermische Maschinen, Str√∂mungsmechanik	7	49	179
 44	Medizin	44	49	1189
 45	Grundlagen der Biologie und Medizin	49	49	629
