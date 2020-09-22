@@ -1,0 +1,11 @@
+2 different comparisons.
+
+1. without weight to see if they cluster like the landscape
+2. with weight 
+
+
+1. without weight in landscape but weight in label
+2. with weight in landscape and without in label
+
+
+- vary label size without weight vs uniform label size with weight as a landscapes
